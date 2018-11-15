@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[FindHelper.cs](./CS/WindowsFormsApplication2/FindHelper.cs) (VB: [FindHelper.vb](./VB/WindowsFormsApplication2/FindHelper.vb))**
+* [Form1.cs](./CS/WindowsFormsApplication2/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication2/Form1.vb))
+<!-- default file list end -->
 # How to highlight the next or previous search result in the treelist
 
 
